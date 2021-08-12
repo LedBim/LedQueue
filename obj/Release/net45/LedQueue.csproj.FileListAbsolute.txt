@@ -1,0 +1,10 @@
+D:\Projects\LedQueue\bin\Release\net45\LedQueue.dll
+D:\Projects\LedQueue\bin\Release\net45\LedQueue.pdb
+D:\Projects\LedQueue\bin\Release\net45\Newtonsoft.Json.dll
+D:\Projects\LedQueue\obj\Release\net45\LedQueue.csproj.AssemblyReference.cache
+D:\Projects\LedQueue\obj\Release\net45\LedQueue.AssemblyInfoInputs.cache
+D:\Projects\LedQueue\obj\Release\net45\LedQueue.AssemblyInfo.cs
+D:\Projects\LedQueue\obj\Release\net45\LedQueue.csproj.CoreCompileInputs.cache
+D:\Projects\LedQueue\obj\Release\net45\LedQueue.csproj.CopyComplete
+D:\Projects\LedQueue\obj\Release\net45\LedQueue.dll
+D:\Projects\LedQueue\obj\Release\net45\LedQueue.pdb

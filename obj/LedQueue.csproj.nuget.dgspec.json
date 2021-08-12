@@ -5,7 +5,7 @@
   },
   "projects": {
     "D:\\Projects\\LedQueue\\LedQueue.csproj": {
-      "version": "1.0.0",
+      "version": "1.1.1",
       "restore": {
         "projectUniqueName": "D:\\Projects\\LedQueue\\LedQueue.csproj",
         "projectName": "LedQueue",
@@ -13,21 +13,26 @@
         "packagesPath": "C:\\Users\\lokman\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\LedQueue\\obj\\",
         "projectStyle": "PackageReference",
+        "crossTargeting": true,
         "configFilePaths": [
+          "D:\\Projects\\LedQueue\\NuGet.Config",
           "C:\\Users\\lokman\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net45",
+          "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com/yasinilkalp/index.json": {}
+          "https://nuget.pkg.github.com/ledbim/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -38,9 +43,25 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net45": {
+          "targetAlias": "net45",
           "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
@@ -56,11 +77,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }

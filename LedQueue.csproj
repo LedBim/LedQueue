@@ -1,8 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+  <PropertyGroup>  
+    <TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
+    <PackageId>LedQueue</PackageId>
+    <Version>1.1.1</Version>
     <Authors>Yasin ilkalp Arabacı</Authors>
+    <PackageDescription>Queue</PackageDescription>
+    <RepositoryUrl>https://github.com/ledbim/LedQueue</RepositoryUrl>
   </PropertyGroup> 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LedQueue</id>
+    <version>1.1.0</version>
+    <authors>Yasin ilkalp Arabacı</authors>
+    <description>Queue</description>
+    <repository url="https://github.com/ledbim/LedQueue" />
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\LedQueue\bin\Release\net5.0\LedQueue.dll" target="lib\net5.0\LedQueue.dll" />
+  </files>
+</package>
