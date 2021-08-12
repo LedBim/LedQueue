@@ -10,5 +10,5 @@
     <group> 
       <dependency id="Newtonsoft.Json" version="13.0.1" />
     </group> 
-  </dependencies>
+  </dependencies> 
 </package>
