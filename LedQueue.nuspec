@@ -1,9 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
-    <metadata> 
-        <id>LedQueue</id>
-        <version>$version$</version>
-        <description>Kuyruklama kullanımı için gerekli olan Request - Response Model </description>
-        <authors>Yasin ilkalp Arabacı</authors> 
-    </metadata> 
+  <metadata>
+    <id>LedQueue</id>
+    <version>$version$</version>
+    <description>Kuyruklama kullanımı için gerekli olan Request - Response Model </description>
+    <authors>Yasin ilkalp Arabacı</authors>
+    <dependencies>
+      <dependency id="Nettonsoft.Json" version="13.0.1" /> 
+    </dependencies>
+  </metadata>
 </package>
