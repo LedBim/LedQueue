@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Authors>Yasin ilkalp Arabacı</Authors>
   </PropertyGroup> 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />

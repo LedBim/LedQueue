@@ -1,5 +1,5 @@
 ﻿using static LedQueue.Enums;
-
+ 
 namespace LedQueue
 {
     /// <summary>

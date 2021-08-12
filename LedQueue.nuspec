@@ -5,11 +5,12 @@
     <version>$version$</version>
     <description>Kuyruklama kullanımı için gerekli olan Request - Response Model </description>
     <authors>Yasin ilkalp Arabacı</authors>
+    <owners>Yasin ilkalp Arabacı</owners>
     <dependencies>
       <dependency id="Newtonsoft.Json" version="13.0.1" /> 
     </dependencies>
   </metadata> 
   <files>
-    <file src="bin\Release\*" target="lib" /> 
+    <file src="bin\Release\net5.0\LedQueue.dll" target="bin\Release\net5.0\LedQueue.dll" /> 
   </files>
 </package>
