@@ -5,10 +5,5 @@
         <version>$version$</version>
         <description>Kuyruklama kullanımı için gerekli olan Request - Response Model </description>
         <authors>Yasin ilkalp Arabacı</authors> 
-    </metadata>
-  <dependencies>
-    <group> 
-      <dependency id="Newtonsoft.Json" version="13.0.1" />
-    </group> 
-  </dependencies> 
+    </metadata> 
 </package>
