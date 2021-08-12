@@ -6,7 +6,7 @@
     <description>Kuyruklama kullanımı için gerekli olan Request - Response Model </description>
     <authors>Yasin ilkalp Arabacı</authors>
     <dependencies>
-      <dependency id="Nettonsoft.Json" version="13.0.1" /> 
+      <dependency id="Newtonsoft.Json" version="13.0.1" /> 
     </dependencies>
   </metadata>
 </package>
