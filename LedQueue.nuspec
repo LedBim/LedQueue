@@ -8,5 +8,8 @@
     <dependencies>
       <dependency id="Newtonsoft.Json" version="13.0.1" /> 
     </dependencies>
+    <files>
+      <file src="bin\Release\*" target="lib" />
+    </files>
   </metadata>
 </package>
