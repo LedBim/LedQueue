@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "AKccmfow3p2MH9JzR5XCJ4rENQ9O4qyH7Y6yD5PkiXMND24aXhEp5YDJOEP9o/YoIlD46oM8zh1F1gmgZMg+Jg==",
+  "dgSpecHash": "wU2Yyi3+iOJi8K+GPuxi8lD6ybnowag1xdnMLcxxb4kXbKrMn7fCzQm8+d8zB0xfgTCL649/NMPZRIq/xjYCmA==",
   "success": true,
   "projectFilePath": "D:\\Projects\\LedQueue\\LedQueue.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lokman\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\lokman\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\lokman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\lokman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\lokman\\.nuget\\packages\\system.net.http\\4.3.4\\system.net.http.4.3.4.nupkg.sha512"
   ],
   "logs": []
 }

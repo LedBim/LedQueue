@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yasin ilkalp Arabacı")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.2.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.2")]
 [assembly: System.Reflection.AssemblyProductAttribute("LedQueue")]
