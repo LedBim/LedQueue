@@ -8,3 +8,13 @@ D:\Projects\LedQueue\obj\Debug\net45\LedQueue.csproj.CoreCompileInputs.cache
 D:\Projects\LedQueue\obj\Debug\net45\LedQueue.csproj.CopyComplete
 D:\Projects\LedQueue\obj\Debug\net45\LedQueue.dll
 D:\Projects\LedQueue\obj\Debug\net45\LedQueue.pdb
+D:\Projects\LED.OM\src\OM\Services\Core\LedQueue\bin\Debug\net45\LedQueue.dll
+D:\Projects\LED.OM\src\OM\Services\Core\LedQueue\bin\Debug\net45\LedQueue.pdb
+D:\Projects\LED.OM\src\OM\Services\Core\LedQueue\bin\Debug\net45\Newtonsoft.Json.dll
+D:\Projects\LED.OM\src\OM\Services\Core\LedQueue\obj\Debug\net45\LedQueue.csproj.AssemblyReference.cache
+D:\Projects\LED.OM\src\OM\Services\Core\LedQueue\obj\Debug\net45\LedQueue.AssemblyInfoInputs.cache
+D:\Projects\LED.OM\src\OM\Services\Core\LedQueue\obj\Debug\net45\LedQueue.AssemblyInfo.cs
+D:\Projects\LED.OM\src\OM\Services\Core\LedQueue\obj\Debug\net45\LedQueue.csproj.CoreCompileInputs.cache
+D:\Projects\LED.OM\src\OM\Services\Core\LedQueue\obj\Debug\net45\LedQueue.csproj.CopyComplete
+D:\Projects\LED.OM\src\OM\Services\Core\LedQueue\obj\Debug\net45\LedQueue.dll
+D:\Projects\LED.OM\src\OM\Services\Core\LedQueue\obj\Debug\net45\LedQueue.pdb

@@ -108,14 +108,13 @@
   "project": {
     "version": "1.1.2",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\LedQueue\\LedQueue.csproj",
+      "projectUniqueName": "D:\\Projects\\LED.OM\\src\\OM\\Services\\Core\\LedQueue\\LedQueue.csproj",
       "projectName": "LedQueue",
-      "projectPath": "D:\\Projects\\LedQueue\\LedQueue.csproj",
+      "projectPath": "D:\\Projects\\LED.OM\\src\\OM\\Services\\Core\\LedQueue\\LedQueue.csproj",
       "packagesPath": "C:\\Users\\lokman\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\LedQueue\\obj\\",
+      "outputPath": "D:\\Projects\\LED.OM\\src\\OM\\Services\\Core\\LedQueue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "D:\\Projects\\LedQueue\\NuGet.Config",
         "C:\\Users\\lokman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -123,7 +122,9 @@
         "net45"
       ],
       "sources": {
-        "https://nuget.pkg.github.com/ledbim/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/yasinilkalp/index.json": {}
       },
       "frameworks": {
         "net45": {
