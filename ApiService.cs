@@ -8,11 +8,11 @@ namespace LedQueue
 {
     public static class ApiService
     {
-        public static async Task<string> Send(string Url, string json, string method = "POST")
+        public static async Task<string> Send(string Url, string json, string method = "POST", string baseUrl = "http://192.168.10.62:9001")
         {
             try
             {
-                string ApiUrl = "http://192.168.10.62:9001" + Url;
+                string ApiUrl = baseUrl + Url;
                 using (var client = new HttpClient())
                 {
                     if (method == "POST")
