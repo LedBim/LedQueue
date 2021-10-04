@@ -1,29 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\LED.OM\\src\\OM\\Services\\Core\\LedQueue\\LedQueue.csproj": {}
+    "D:\\Projects\\LedQueue\\LedQueue.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\LED.OM\\src\\OM\\Services\\Core\\LedQueue\\LedQueue.csproj": {
-      "version": "1.1.2",
+    "D:\\Projects\\LedQueue\\LedQueue.csproj": {
+      "version": "1.1.5",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\LED.OM\\src\\OM\\Services\\Core\\LedQueue\\LedQueue.csproj",
+        "projectUniqueName": "D:\\Projects\\LedQueue\\LedQueue.csproj",
         "projectName": "LedQueue",
-        "projectPath": "D:\\Projects\\LED.OM\\src\\OM\\Services\\Core\\LedQueue\\LedQueue.csproj",
-        "packagesPath": "C:\\Users\\lokman\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\LED.OM\\src\\OM\\Services\\Core\\LedQueue\\obj\\",
+        "projectPath": "D:\\Projects\\LedQueue\\LedQueue.csproj",
+        "packagesPath": "C:\\Users\\yasin.arabaci\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\LedQueue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lokman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Projects\\LedQueue\\NuGet.Config",
+          "C:\\Users\\yasin.arabaci\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net45"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com/yasinilkalp/index.json": {}
+          "https://nuget.pkg.github.com/ledbim/index.json": {}
         },
         "frameworks": {
           "net45": {
@@ -50,7 +49,7 @@
               "version": "[4.3.4, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

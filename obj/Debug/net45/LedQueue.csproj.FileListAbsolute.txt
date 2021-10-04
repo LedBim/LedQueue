@@ -18,3 +18,4 @@ D:\Projects\LED.OM\src\OM\Services\Core\LedQueue\obj\Debug\net45\LedQueue.csproj
 D:\Projects\LED.OM\src\OM\Services\Core\LedQueue\obj\Debug\net45\LedQueue.csproj.CopyComplete
 D:\Projects\LED.OM\src\OM\Services\Core\LedQueue\obj\Debug\net45\LedQueue.dll
 D:\Projects\LED.OM\src\OM\Services\Core\LedQueue\obj\Debug\net45\LedQueue.pdb
+D:\Projects\LedQueue\obj\Debug\net45\LedQueue.GeneratedMSBuildEditorConfig.editorconfig

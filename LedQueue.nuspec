@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$authors$</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://www.nuget.org/packages/LedQueue</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/wiseapi.model/1.0.2/icon</iconUrl>
+    <description>$description$</description>
+    <releaseNotes>baseUrl değiştirildi.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags></tags>
+    <dependencies>
+      <dependency  id="Newtonsoft.Json" version="13.0.1" />
+      <dependency  id="System.Net.Http" version="4.3.4" />
+    </dependencies>
+  </metadata>
+  
+</package>
