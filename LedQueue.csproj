@@ -4,7 +4,7 @@
     <TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
     <!--<TargetFramework>net45</TargetFramework>-->
     <PackageId>LedQueue</PackageId>
-    <Version>1.1.5</Version>
+    <Version>1.1.6</Version>
     <Authors>Yasin ilkalp Arabaci</Authors>
     <PackageDescription>Queue</PackageDescription>
     <RepositoryUrl>https://github.com/ledbim/LedQueue</RepositoryUrl>
