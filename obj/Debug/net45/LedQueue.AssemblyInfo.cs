@@ -11,9 +11,9 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("OrtakMarket")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Pazartane")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Lokman Ecza Deposu - Ortak Market")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Lokman Ecza Deposu")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.5.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LedQueue")]

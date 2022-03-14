@@ -6,7 +6,11 @@ namespace LedQueue
     {
         public static string SerializeObject(this QueueContent request)
         {
-            return JsonConvert.SerializeObject(request);
+            var settings = new JsonSerializerSettings()
+            {
+                ReferenceLoopHandling = ReferenceLoopHandling.Ignore
+            };
+            return JsonConvert.SerializeObject(request, settings: settings);
         }
 
         public static T DeserializeObject<T>(this string request)

@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,7 +7,7 @@ namespace LedQueue
 {
     public static class ApiService
     {
-        public static async Task<string> Send(string Url, string json, string method = "POST", string baseUrl = "http://192.168.10.11:9001")
+        public static async Task<string> Send(string Url, string json, string method = "POST", string baseUrl = "http://wise.pazartane.com")
         {
             try
             {

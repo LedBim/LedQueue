@@ -7,3 +7,4 @@ D:\Projects\LedQueue\obj\Debug\netstandard2.0\LedQueue.AssemblyInfo.cs
 D:\Projects\LedQueue\obj\Debug\netstandard2.0\LedQueue.csproj.CoreCompileInputs.cache
 D:\Projects\LedQueue\obj\Debug\netstandard2.0\LedQueue.dll
 D:\Projects\LedQueue\obj\Debug\netstandard2.0\LedQueue.pdb
+D:\Projects\LedQueue\obj\Debug\netstandard2.0\LedQueue.GeneratedMSBuildEditorConfig.editorconfig

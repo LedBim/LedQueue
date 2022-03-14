@@ -1,18 +1,18 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>  
-    <!--<TargetFrameworks>netstandard2.0;net45</TargetFrameworks>-->
-    <TargetFramework>net45</TargetFramework>
+    <TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
+    <!--<TargetFramework>net45</TargetFramework>-->
     <PackageId>LedQueue</PackageId>
     <Version>1.1.5</Version>
     <Authors>Yasin ilkalp Arabaci</Authors>
     <PackageDescription>Queue</PackageDescription>
     <RepositoryUrl>https://github.com/ledbim/LedQueue</RepositoryUrl>
-    <Description>Lokman Ecza Deposu - Ortak Market</Description>
-    <Company>OrtakMarket</Company>
+    <Description>Lokman Ecza Deposu</Description>
+    <Company>Pazartane</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageProjectUrl>https://www.nuget.org/packages/LedQueue</PackageProjectUrl>
-    <PackageTags>Led OM</PackageTags>
+    <PackageTags>Queue, ApiService</PackageTags>
   </PropertyGroup> 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />

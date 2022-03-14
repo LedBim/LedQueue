@@ -6,10 +6,14 @@
     <authors>Yasin ilkalp Arabaci</authors>
     <projectUrl>https://www.nuget.org/packages/LedQueue</projectUrl>
     <description>Queue</description>
-    <tags>Led OM</tags>
+    <tags>Queue, ApiService</tags>
     <repository url="https://github.com/ledbim/LedQueue" />
     <dependencies>
       <group targetFramework=".NETFramework4.5">
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
         <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
         <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
       </group>
@@ -17,5 +21,6 @@
   </metadata>
   <files>
     <file src="D:\Projects\LedQueue\bin\Debug\net45\LedQueue.dll" target="lib\net45\LedQueue.dll" />
+    <file src="D:\Projects\LedQueue\bin\Debug\netstandard2.0\LedQueue.dll" target="lib\netstandard2.0\LedQueue.dll" />
   </files>
 </package>
